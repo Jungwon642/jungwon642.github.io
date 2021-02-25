@@ -13,3 +13,5 @@ dacon - Try
 datahack - classification : HR
 datahack - regression : Food Demanding
 mnist
+fashion mnist
+cat_dog
