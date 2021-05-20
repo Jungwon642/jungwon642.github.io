@@ -6,7 +6,7 @@
   <p>test</p>
   test2<br>
   <a href='http://www.google.com'>google로 이동</a>
-  <div align=center style='border: 2px #aaa'>
+  <div align=center style='background-color: #aaa>
     <a href='http://www.naver.com'>naver로 이동</a>
   </div>
 </body>
